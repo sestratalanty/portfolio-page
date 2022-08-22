@@ -1,5 +1,4 @@
-Massively by HTML5 UP
-Thanks to 	html5up.net | @ajlkn
+Welcome to my portfolio page
 
 Credits:
 
