@@ -2,13 +2,13 @@
 
   {
     "name": "Питер или Москва",
-    "img_url": "./images/img-spb.PNG",
+    "img_url": "./images/img-spb.png",
     "page_url": "/db/SPB-Moscow.odt",
     "description": "Что лучше - Питер или Москва"
   },
   {
     "name": "Путешествие в Африку",
-    "img_url": "./images/img-africa.PNG",
+    "img_url": "./images/img-africa.png",
     "page_url": "/db/africa.rar",
     "description": "Интервью с Сергеем Бугаевым"
   },
