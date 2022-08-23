@@ -14,7 +14,6 @@ const createProjectCard = ({
       <p>${description}</p>
       <ul class="actions special">
         <li><a href="${pageUrl}" class="button">To Page</a></li>
-        <li><a href="${codeUrl}" class="button">To Code</a></li>
       </ul>
     </article>
   `
@@ -23,11 +22,11 @@ const createProjectCard = ({
 
 const getData = async (url) => {
   const res = await fetch(url);
-  
+
   if (!res.ok) {
     throw new Error(`Ошибка по адресу ${url}, статус ошибки: ${res.status}`)
   }
-  
+
   return await res.json();
 }
 

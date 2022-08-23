@@ -1,44 +1,40 @@
 [
+
   {
-    "name": "JS Constructor",
-    "img_url": "./images/img-jsconstructor.PNG",
-    "page_url": "https://jsconstructor-855ac.web.app/",
-    "code_url": "https://github.com/bthrsn/JSConstructor",
-    "description": "Website constructor on pure JavaScript"
+    "name": "Что лучше - Питер или Москва",
+    "img_url": "./images/img-nse.PNG",
+    "page_url": "/db/SPB-Moscow.odt",
+    "description": "Что лучше - Питер или Москва"
   },
   {
-    "name": "Twitter-style-app",
-    "img_url": "./images/img-twitter-style-app.PNG",
-    "page_url": "https://bthrsn.github.io/twitter-style-app/",
-    "code_url": "https://github.com/bthrsn/twitter-style-app",
-    "description": "Twiiter style app for posts"
+    "name": "Путешествие в Африку",
+    "img_url": "./images/img-africa.PNG",
+    "page_url": "/db/africa.rar",
+    "description": "Интервью с Сергеем Бугаевым"
+  },
+{
+    "name": "Tudo sobre o índice S&P BSE SENSEX",
+    "img_url": "./images/img-tudo.PNG",
+    "page_url": "https://online-investment.pro/pt/bse-sensex-indice/",
+    "description": "Tudo sobre o índice S&P BSE SENSEX (Portuguese)"
   },
   {
-    "name": "Whack-a-mole!",
-    "img_url": "./images/img-whack-a-mole.png",
-    "page_url": "https://bthrsn.github.io/whack-a-mole/",
-    "code_url": "https://github.com/bthrsn/whack-a-mole",
-    "description": "Webgame whack-a-mole"
+    "name": "NSE vs BSE: listed companies and live market",
+    "img_url": "./images/img-nse.PNG",
+    "page_url": "https://online-investment.pro/nse-vs-bse/",
+    "description": "NSE vs BSE: listed companies, and live market (English)"
   },
   {
-    "name": "React Calc Money",
-    "img_url": "./images/img-react-calc-money.PNG",
-    "page_url": "https://bthrsn.github.io/react-calc-money/",
-    "code_url": "https://github.com/bthrsn/react-calc-money",
-    "description": "React app Budget Calculator"
+    "name": "Пугачева и Боярский",
+    "img_url": "./images/img-pugacheva.PNG",
+    "page_url": "https://www.instagram.com/pmishow/p/BNC8KOmBWmk/?utm_medium=copy_link",
+    "description": "Пугачева и Боярский"
   },
   {
-    "name": "Need For Miami",
-    "img_url": "./images/img-need-for-miami.PNG",
-    "page_url": "https://bthrsn.github.io/need-for-miami/",
-    "code_url": "https://github.com/bthrsn/need-for-miami",
-    "description": "Frontend for racing webgame"
-  },
-  {
-    "name": "Credit Calculator",
-    "img_url": "./images/img-credit-calc.PNG",
-    "page_url": "https://bthrsn.github.io/credit-calculator/",
-    "code_url": "https://github.com/bthrsn/credit-calculator",
-    "description": "React app credit calculator"
+    "name": "Концерт Молко",
+    "img_url": "./images/img-molko.PNG",
+    "page_url": "https://www.instagram.com/p/BL9b__qBgrU/?utm_medium=copy_link",
+    "description": "Брайан Молко"
   }
+
 ]
