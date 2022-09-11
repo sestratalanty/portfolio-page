@@ -3,13 +3,13 @@
   {
     "name": "Питер или Москва",
     "img_url": "./images/img-spb.png",
-    "page_url": "/db/SPB-Moscow.odt",
+    "page_url": "./db/SPB-Moscow.odt",
     "description": "Что лучше - Питер или Москва"
   },
   {
     "name": "Путешествие в Африку",
     "img_url": "./images/img-africa.png",
-    "page_url": "/db/africa.rar",
+    "page_url": "./db/africa.rar",
     "description": "Интервью с Сергеем Бугаевым"
   },
 {
@@ -31,7 +31,7 @@
     "description": "Пугачева и Боярский"
   },
   {
-    "name": "Концерт Молко",
+    "name": "Концерт Placebo",
     "img_url": "./images/img-molko.PNG",
     "page_url": "https://www.instagram.com/p/BL9b__qBgrU/?utm_medium=copy_link",
     "description": "Брайан Молко"

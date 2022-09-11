@@ -173,6 +173,7 @@ input, select, textarea {
 	p {
 		text-align: justify;
 		margin: 0 0 2rem 0;
+		line-height: 1.7
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3060,7 +3061,7 @@ form, .toggle {
 				background-size: auto,								auto,														auto 175%;
 			}
 
-		}		
+		}
 
 /* Intro */
 
@@ -3235,9 +3236,9 @@ form, .toggle {
 		#intro {
 			min-height: 60vh;
 		}
-	
+
 		}
-		
+
 		@media screen and (max-width: 980px) {
 
 			#intro {
@@ -3254,7 +3255,7 @@ form, .toggle {
 				}
 
 		}
-		
+
 		@media screen and (max-width: 736px) {
 
 			#intro {
@@ -3278,58 +3279,58 @@ form, .toggle {
 				}
 
 		}
-		
+
 		@media screen and (max-width: 580px) {
 			#intro {
 				min-height: 50vh;
 			}
 		}
-		
+
 /* Photo */
 
 	.photo {
 	width: 20%;
 	border-radius: 50%;
-	}	
-	
+	}
+
 	@media screen and (max-width: 1360px) {
-	
+
 		.photo {
 			width: 30%;
 			}
-			
+
 	}
 
 	@media screen and (max-width: 980px) {
-	
+
 		.photo {
 			width: 40%;
 			}
-			
+
 	}
-	
+
 	@media screen and (max-width: 830px) {
-	
+
 		.photo {
 			width: 35%;
 			}
-			
+
 	}
-	
+
 	@media screen and (max-width: 736px) {
-	
+
 		.photo {
 			width: 30%;
 			}
-	
+
 	}
-	
+
 	@media screen and (max-width: 380px) {
 		.photo {
 			width: 60%;
 			}
 	}
-	
+
 /* Header */
 
 	#header {
