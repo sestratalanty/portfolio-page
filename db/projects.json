@@ -4,13 +4,15 @@
     "name": "Питер или Москва",
     "img_url": "./images/img-spb.png",
     "page_url": "./db/SPB-Moscow.odt",
-    "description": "Что лучше - Питер или Москва"
+    "description": "Что лучше - Питер или Москва",
+    "download": "download"
   },
   {
     "name": "Путешествие в Африку",
     "img_url": "./images/img-africa.png",
     "page_url": "./db/africa.rar",
-    "description": "Интервью с Сергеем Бугаевым"
+    "description": "Интервью с Сергеем Бугаевым",
+    "download": "download"
   },
 {
     "name": "Tudo sobre o índice S&P BSE SENSEX",

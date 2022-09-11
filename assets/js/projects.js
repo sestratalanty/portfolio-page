@@ -3,7 +3,8 @@ const createProjectCard = ({
   img_url: imgUrl ,
   page_url: pageUrl ,
   code_url: codeUrl ,
-  description
+  description,
+  download
 }) => {
   const project = `
     <article>
@@ -13,7 +14,7 @@ const createProjectCard = ({
       <a href="${pageUrl}" class="image fit"><img src="${imgUrl}" alt="${name}" /></a>
       <p>${description}</p>
       <ul class="actions special">
-        <li><a href="${pageUrl}" class="button">To Page</a></li>
+        <li><a href="${pageUrl}" class="button" "${download}">To Page</a></li>
       </ul>
     </article>
   `
